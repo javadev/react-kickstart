@@ -3,8 +3,8 @@
 
 [![Build Status](https://travis-ci.org/vesparny/react-kickstart.svg)](https://travis-ci.org/vesparny/react-kickstart)
 [![codecov.io](https://codecov.io/github/vesparny/react-kickstart/coverage.svg?branch=master)](https://codecov.io/github/vesparny/react-kickstart?branch=master)
-[![Dependency status](https://david-dm.org/vesparny/react-kickstart/status.svg)](https://david-dm.org/vesparny/react-kickstart "Dependency status")
-[![Dev dependency status](https://david-dm.org/vesparny/react-kickstart/dev-status.svg)](https://david-dm.org/vesparny/react-kickstart#info=devDependencies "Dev dependency status")
+[![Dependency Status](https://www.versioneye.com/user/projects/5784316276ef4000486f9270/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5784316276ef4000486f9270)
+
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
