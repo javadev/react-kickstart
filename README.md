@@ -1,8 +1,8 @@
 # react-kickstart
 **just another react + webpack boilerplate**
 
-[![Build Status](https://travis-ci.org/vesparny/react-kickstart.svg)](https://travis-ci.org/vesparny/react-kickstart)
-[![codecov.io](https://codecov.io/github/vesparny/react-kickstart/coverage.svg?branch=master)](https://codecov.io/github/vesparny/react-kickstart?branch=master)
+[![Build Status](https://travis-ci.org/javadev/react-kickstart.svg)](https://travis-ci.org/javadev/react-kickstart)
+[![codecov.io](https://codecov.io/github/javadev/react-kickstart/coverage.svg?branch=master)](https://codecov.io/github/javadev/react-kickstart?branch=master)
 [![Dependency Status](https://www.versioneye.com/user/projects/5784316276ef4000486f9270/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5784316276ef4000486f9270)
 
 
