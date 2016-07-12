@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - "5.1"
+  - "6"
 before_script: "npm install -g codecov.io"
 script:
   - npm run lint
