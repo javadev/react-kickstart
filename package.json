@@ -6,13 +6,13 @@
   "author": "Alessandro Arnodo <alessandro@arnodo.net> (https://alessandro.arnodo.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vesparny/react-kickstart/issues"
+    "url": "https://github.com/javadev/react-kickstart/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vesparny/react-kickstart.git"
+    "url": "https://github.com/javadev/react-kickstart.git"
   },
-  "homepage": "https://github.com/vesparny/react-kickstart",
+  "homepage": "https://github.com/javadev/react-kickstart",
   "main": "index.js",
   "scripts": {
     "test": "ava \"test/**/*.spec.js\" --verbose",
