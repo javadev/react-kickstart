@@ -44,7 +44,7 @@
     "globals": []
   },
   "dependencies": {
-    "aphrodite": "^0.5.0",
+    "aphrodite": "^0.6.0",
     "fastclick": "^1.0.6",
     "normalize.css": "^5.0.0",
     "react": "^15.3.2",
