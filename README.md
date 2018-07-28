@@ -3,8 +3,6 @@
 
 [![Build Status](https://travis-ci.org/javadev/react-kickstart.svg)](https://travis-ci.org/javadev/react-kickstart)
 [![codecov.io](https://codecov.io/github/javadev/react-kickstart/coverage.svg?branch=master)](https://codecov.io/github/javadev/react-kickstart?branch=master)
-[![Dependency Status](https://www.versioneye.com/user/projects/5784316276ef4000486f9270/badge.svg?style=flat)](https://www.versioneye.com/user/projects/5784316276ef4000486f9270)
-
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
